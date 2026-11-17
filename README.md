@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John!
+# 👋 Hi, I'm Zeaford Wiggs!
 
 ### 🚀 Full Stack .NET & JavaScript Developer
 I build scalable, enterprise-grade applications by combining the robust architecture of **.NET** with the dynamic versatility of **JavaScript**. I'm passionate about clean code, SOLID principles, and delivering seamless user experiences.
